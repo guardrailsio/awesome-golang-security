@@ -7,6 +7,8 @@ A curated list of awesome golang Security related resources.
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
+Supported by: [GuardRails.io](https://github.com/apps/guardrails)
+
 </div>
 <br/>
 
@@ -17,7 +19,6 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [nosurf](https://github.com/justinas/nosurf) - CSRF protection middleware for Go.
 - [gorilla/csrf](https://github.com/gorilla/csrf) - Provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
 - [gorilla/securecookie](https://github.com/gorilla/securecookie) - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
-- [golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples.
 - [secure](https://github.com/unrolled/secure) -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 
 
@@ -28,31 +29,38 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## Static Code Analysis
 
-- [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections. It does not seem to be to actively maintained at the moment.
+- [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections. It does not seem to be actively maintained at the moment.
 - [gosec](https://github.com/securego/gosec) - Inspects source code for security problems by scanning the Go AST and matching it with a set of rules. Comes bundled in a Docker container [securego/gosec](https://hub.docker.com/r/securego/gosec)
-- [gometalinter](https://github.com/alecthomas/gometalinter) - Concurrently runs most of the existing go linters and normalises their output.
-
+- [gometalinter](https://github.com/alecthomas/gometalinter) - Concurrently runs most of the existing go linters and normalizes their output.
 
 ## Vulnerabilities and Security Advisories
 
-- [golang-announce](https://groups.google.com/forum/#!forum/golang-announce) - The golang release mailing list. Language specific security issues are announced here.
-- [snyk Vulnerability DB](https://snyk.io/vuln/page/3?type=golang) - Commercial but free listing of known vulnerabilities in libraries.
-- [CVE](https://www.cvedetails.com/vulnerability-list/vendor_id-14185/Golang.html) - Vulnerabilities that where assigned a CVE. Covers the language and packages.
-- [NVD](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=golang&search_type=all) - Golang known vulnerabilities in the National Vulnerability Database.
+- [golang-announce](https://groups.google.com/forum/#!forum/golang-announce) - The golang release mailing list. Language-specific security issues are announced here.
+- [snyk Vulnerability DB](https://snyk.io/vuln?type=golang) - Commercial but free listing of known vulnerabilities in libraries.
+- [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-14185/Golang.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
+- [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=golang&search_type=all) - Golang known vulnerabilities in the National Vulnerability Database.
 
 # Educational
 
 ## Hacking Playground
 
 - [govwa](https://github.com/0c34/govwa) - A vulnerable golang application including the most common vulnerabilities found in web applications today
+- [Lambhack](https://github.com/wickett/lambhack) - A very vulnerable serverless application in AWS Lambda
 
 ## Articles, Guides & Talks
 
-- [Go Secure Coding Practices](https://www.owasp.org/images/2/2b/Owasp-171123063052.pdf) - Talk given by Sulhaedir at the OWASP Jakarta meetup.
 - [gosea](https://github.com/komand/gosea) - Go Secure Example Application (GOSEA)
-- [go-scp](https://checkmarx.gitbooks.io/go-scp/) - Go programming language secure coding practices guide
-- [Memory Security in golang](https://cryptolosophy.org/memory-security-go/) - Handling dada securely in memory.
-- [A Go Programmer's Guide to Secure Connections](https://www.youtube.com/watch?v=kxKLYDLzuHA) - GopherCon 2018, Liz Rice
+- [Go - Secure Coding Practices](https://www.owasp.org/images/2/2b/Owasp-171123063052.pdf) by OWASP - [PDF] Talk given by Sulhaedir at the OWASP Jakarta meetup.
+- [Go - Secure Coding Practices](https://checkmarx.gitbooks.io/go-scp/) by Checkmarx - Go programming language secure coding practices guide
+- [Memory Security in golang](https://cryptolosophy.org/memory-security-go/) - Handling data securely in memory.
+- [A Go Programmer's Guide to Secure Connections](https://www.youtube.com/watch?v=kxKLYDLzuHA) - [Video] GopherCon 2018, Liz Rice
+- [golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples.
+- [Hacking with Go](https://github.com/parsiya/Hacking-with-Go) - Hacking with Go for security professionals.
+
+# Companies
+
+- [GuardRails](https://www.guardrails.io) - A GitHub App that gives you instant security feedback in your Pull Requests.
+- [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing known vulnerabilities in your dependencies.
 
 # Other
 
@@ -62,7 +70,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 # Contributing
 
-Found an awesome project, package, article, other type of resources related to golang Security? Send me a pull request!
+Found an awesome project, package, article, or another type of resources related to golang Security? Send me a pull request!
 Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
