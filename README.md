@@ -21,7 +21,6 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 - [gorilla/securecookie](https://github.com/gorilla/securecookie) - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
 - [secure](https://github.com/unrolled/secure) -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 
-
 ## Libraries
 
 - [paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang)
@@ -39,6 +38,10 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 - [snyk Vulnerability DB](https://snyk.io/vuln?type=golang) - Commercial but free listing of known vulnerabilities in libraries.
 - [Common Vulnerabilities and Exposures](https://www.cvedetails.com/vulnerability-list/vendor_id-14185/Golang.html) - Vulnerabilities that were assigned a CVE. Covers the language and packages.
 - [National Vulnerability Database](https://nvd.nist.gov/vuln/search/results?form_type=Basic&results_type=overview&query=golang&search_type=all) - Golang known vulnerabilities in the National Vulnerability Database.
+
+## Audit tools
+
+- [cameradar](https://github.com/ullaakut/cameradar) - A user-friendly tool to remotely discover and access videosurveillance camera streams.
 
 ## Private Key Infrastructure
 
