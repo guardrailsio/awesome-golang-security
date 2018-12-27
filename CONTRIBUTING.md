@@ -1,4 +1,4 @@
-c# Contribution Guidelines
+# Contribution Guidelines
 
 1. Read and adhere to the [Code-of-Conduct](./code-of-conduct.md)
 2. Make sure you put things in the right category!
