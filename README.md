@@ -21,11 +21,13 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 - [gorilla/securecookie](https://github.com/gorilla/securecookie) - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
 - [secure](https://github.com/unrolled/secure) -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 - [unindexed](https://github.com/jordan-wright/unindexed) - A drop-in replacement for `http.Dir` which disables directory indexing.
+- [beego-security-headers](https://github.com/gosecguy/beego-security-headers) - beego framework filter for easy security headers management.
 
 ## Libraries
 
 - [paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang)
 - [hsts](https://github.com/StalkR/hsts) - Go HTTP Strict Transport Security library
+- [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
 
 ## Static Code Analysis
 
@@ -60,6 +62,7 @@ Supported by: [GuardRails.io](https://github.com/apps/guardrails)
 - [A Go Programmer's Guide to Secure Connections](https://www.youtube.com/watch?v=kxKLYDLzuHA) - [Video] GopherCon 2018, Liz Rice
 - [golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples.
 - [Hacking with Go](https://github.com/parsiya/Hacking-with-Go) - Hacking with Go for security professionals.
+- [ReDoS in Go](https://www.checkmarx.com/2018/05/07/redos-go/) by Checkmarx - Diving Deep into Regular Expression Denial of Service (ReDoS) in Go
 
 # Companies
 
