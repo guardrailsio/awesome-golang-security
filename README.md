@@ -7,7 +7,7 @@ A curated list of awesome golang Security related resources.
 
 _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing._
 
-Supported by: [GuardRails.io](https://github.com/apps/guardrails)
+Supported by: [GuardRails.io](https://www.guardrails.io)
 
 </div>
 <br/>
