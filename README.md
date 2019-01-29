@@ -77,12 +77,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 # Contributing
 
-Found an awesome project, package, article, or another type of resources related to golang Security? Send me a pull request!
+Found an awesome project, package, article, or another type of resources related to golang Security? Submit a pull request!
 Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
-
-say _hi_ on [Twitter](https://twitter.com/pxlpnk)
 
 ## License
 
