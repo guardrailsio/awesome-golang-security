@@ -17,7 +17,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Web Framework Hardening
 
 - [nosurf](https://github.com/justinas/nosurf) - CSRF protection middleware for Go.
-- [gorilla/csrf](https://github.com/gorilla/csrf) - Provides Cross Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
+- [gorilla/csrf](https://github.com/gorilla/csrf) - Provides Cross-Site Request Forgery (CSRF) prevention middleware for Go web applications & services.
 - [gorilla/securecookie](https://github.com/gorilla/securecookie) - Encodes and decodes authenticated and optionally encrypted cookie values for Go web applications.
 - [secure](https://github.com/unrolled/secure) -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 - [unindexed](https://github.com/jordan-wright/unindexed) - A drop-in replacement for `http.Dir` which disables directory indexing.
