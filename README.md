@@ -64,7 +64,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [gosea](https://github.com/komand/gosea) - Go Secure Example Application (GOSEA)
 - [Go - Secure Coding Practices](https://www.owasp.org/images/2/2b/Owasp-171123063052.pdf) by OWASP - [PDF] Talk given by Sulhaedir at the OWASP Jakarta meetup.
-- [Go - Secure Coding Practices](https://checkmarx.gitbooks.io/go-scp/) by Checkmarx - Go programming language secure coding practices guide
+- [OWASP Go - Secure Coding Practices](https://github.com/OWASP/Go-SCP) by Checkmarx - Go programming language secure coding practices guide
 - [Memory Security in golang](https://cryptolosophy.org/memory-security-go/) - Handling data securely in memory.
 - [A Go Programmer's Guide to Secure Connections](https://www.youtube.com/watch?v=kxKLYDLzuHA) - [Video] GopherCon 2018, Liz Rice
 - [golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples.
