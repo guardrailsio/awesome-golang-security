@@ -70,11 +70,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [golang-tls](https://github.com/denji/golang-tls) - Simple Golang HTTPS/TLS Examples.
 - [Hacking with Go](https://github.com/parsiya/Hacking-with-Go) - Hacking with Go for security professionals.
 - [ReDoS in Go](https://www.checkmarx.com/2018/05/07/redos-go/) by Checkmarx - Diving Deep into Regular Expression Denial of Service (ReDoS) in Go
-
-# Companies
-
-- [GuardRails](https://www.guardrails.io) - A GitHub App that gives you instant security feedback in your Pull Requests.
-- [Snyk](https://snyk.io) - A developer-first solution that automates finding & fixing known vulnerabilities in your dependencies.
+- [Attacking Go](https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/): A detailed description on Security assessment techniques for Go projects
 
 # Other
 
