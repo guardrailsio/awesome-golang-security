@@ -35,7 +35,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang)
 - [hsts](https://github.com/StalkR/hsts) - Go HTTP Strict Transport Security library
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT)
-
+- [gron](https://github.com/tomnomnom/gron) - Gron transforms JSON into discrete assignments to make it easier to grep for what you want and see the absolute 'path' to it.
 ## Static Code Analysis
 
 - [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections. It does not seem to be actively maintained at the moment.
