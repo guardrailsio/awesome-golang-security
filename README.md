@@ -62,7 +62,6 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Articles, Guides & Talks
 
-- [gosea](https://github.com/komand/gosea) - Go Secure Example Application (GOSEA)
 - [Go - Secure Coding Practices](https://www.owasp.org/images/2/2b/Owasp-171123063052.pdf) by OWASP - [PDF] Talk given by Sulhaedir at the OWASP Jakarta meetup.
 - [OWASP Go - Secure Coding Practices](https://github.com/OWASP/Go-SCP) by Checkmarx - Go programming language secure coding practices guide
 - [Memory Security in golang](https://cryptolosophy.org/memory-security-go/) - Handling data securely in memory.
