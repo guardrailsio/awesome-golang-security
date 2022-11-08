@@ -35,6 +35,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [hsts](https://github.com/StalkR/hsts) - Go HTTP Strict Transport Security library.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers.
+- [XMT](https://github.com/iDigitalFlame/XMT) - Offensive security framework that specializes in identification, task management and execution while providing out-of-the-box C2 support with many customization options.
 
 ## Static Code Analysis
 
