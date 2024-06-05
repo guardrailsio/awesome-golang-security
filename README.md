@@ -35,6 +35,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [hsts](https://github.com/StalkR/hsts) - Go HTTP Strict Transport Security library.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers.
+- [go-peer](https://github.com/number571/go-peer) - A software library for creating secure and anonymous decentralized systems.
 
 ## Static Code Analysis
 
