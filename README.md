@@ -35,6 +35,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [hsts](https://github.com/StalkR/hsts) - Go HTTP Strict Transport Security library.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers.
+- [FCaptcha](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA that detects bots, vision AI agents, and headless browsers through behavioral analysis and SHA-256 proof of work. Go server included.
 
 ## Static Code Analysis
 
