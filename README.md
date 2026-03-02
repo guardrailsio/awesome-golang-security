@@ -28,6 +28,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [secure](https://github.com/unrolled/secure) -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 - [unindexed](https://github.com/jordan-wright/unindexed) - A drop-in replacement for `http.Dir` which disables directory indexing.
 - [beego-security-headers](https://github.com/gosecguy/beego-security-headers) - beego framework filter for easy security headers management.
+- [FCaptcha](https://github.com/WebDecoy/FCaptcha) - Self-hosted CAPTCHA that detects bots, vision AI agents, and headless browsers through behavioral analysis and SHA-256 proof of work. Go server included.
 
 ## Libraries
 
