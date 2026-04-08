@@ -31,6 +31,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Libraries
 
+- [gost-crypto](https://github.com/rekurt/gost-crypto) - Go library for Russian GOST cryptographic standards (digital signatures, Streebog hash, Kuznechik cipher, MGM AEAD) backed by OpenSSL gost-engine.
 - [paseto](https://github.com/o1egl/paseto) - Platform-Agnostic Security Tokens implementation in GO (Golang).
 - [hsts](https://github.com/StalkR/hsts) - Go HTTP Strict Transport Security library.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
