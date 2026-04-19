@@ -35,6 +35,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [hsts](https://github.com/StalkR/hsts) - Go HTTP Strict Transport Security library.
 - [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
 - [httprobe](https://github.com/tomnomnom/httprobe) - Take a list of domains and probe for working HTTP and HTTPS servers.
+- [Bindboss](https://github.com/grug-group420/Bindboss) - Self-extracting executable packer with Ed25519 signing, SHA-256 integrity hashing, and dependency checking for secure binary distribution.
 
 ## Static Code Analysis
 
