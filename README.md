@@ -56,6 +56,10 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 - [CloudFlare SSL](https://github.com/cloudflare/cfssl) - CFSSL is CloudFlare's PKI/TLS swiss army knife. It is both a command line tool and an HTTP API server for signing, verifying, and bundling TLS certificates.
 
+## Logging
+
+- [PII-Shield](https://github.com/pii-shield/pii-shield) - Zero-code log sanitization sidecar for Kubernetes that redacts PII from logs.
+
 # Educational
 
 ## Hacking Playground
