@@ -28,6 +28,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 - [secure](https://github.com/unrolled/secure) -  Secure is an HTTP middleware for Go that facilitates most of your security needs for web applications.
 - [unindexed](https://github.com/jordan-wright/unindexed) - A drop-in replacement for `http.Dir` which disables directory indexing.
 - [beego-security-headers](https://github.com/gosecguy/beego-security-headers) - beego framework filter for easy security headers management.
+- [guard-core-go](https://github.com/Guard-Core/guard-core-go) - Application-layer API security engine for Go with IP filtering, rate limiting with automatic bans and attack pattern detection.
 
 ## Libraries
 
